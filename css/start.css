@@ -1,0 +1,249 @@
+body,
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+
+}
+
+.main {
+    height: 100%;
+    width: 100%;
+}
+
+.first {
+    height: 100%;
+    width: 100%;
+    background-color: #f8cf39;
+    position: relative;
+}
+
+.infirst {
+    height: 30%;
+    width: 30%;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 15%;
+    position: absolute;
+    background-color: #f3f3f3;
+}
+
+.second {
+    height: 40%;
+    width: 100%;
+    position: relative;
+
+}
+
+.insecond {
+    height: 75%;
+    width: 70%;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: lightgrey;
+
+}
+
+.header {
+    height: 20%;
+    width: 100%;
+    background-color: #fac769;
+    color: white;
+    display: table;
+    text-align: center;
+    position: relative;
+}
+
+
+.title {
+    height: 100%;
+    width: 100%;
+    display: table-cell;
+    vertical-align: middle;
+
+}
+
+.third {
+    height: 90%;
+    width: 100%;
+    margin: 0;
+    background-color: white;
+    position: relative;
+}
+
+.title1 {
+    height: 15%;
+    width: 40%;
+    left: 15%;
+    bottom: -70px;
+    position: relative;
+    background-color: lightgrey;
+}
+
+.picture {
+    height: 65%;
+    left: 15%;
+    top: 90px;
+    width: 80%;
+    background-color: white;
+    position: relative;
+}
+
+.pic1 {
+    height: 100%;
+    width: 25%;
+    /*    left:0;*/
+    background-color: white;
+    display: inline-block;
+    background-color: lightgrey;
+    margin-right: 10px;
+}
+
+.pic2 {
+    height: 100%;
+    width: 25%;
+    float: left;
+    margin: auto;
+    background-color: white;
+    display: inline-block;
+    background-color: lightgrey;
+    margin-right: 20px;
+}
+
+.pic3 {
+    height: 100%;
+    width: 25%;
+    float: left;
+    background-color: white;
+    display: inline-block;
+    background-color: lightgrey;
+    margin-right: 20px;
+}
+
+
+.in-pic {
+    width: 100%;
+    top: 182px;
+    position: relative;
+    height: 50%;
+    background-color: red;
+    border: yellow 3px;
+}
+
+.fourth {
+    height: 60%;
+    width: 70%;
+    top: 50px;
+    background-color: white;
+    position: relative;
+    left: 15%;
+}
+
+.title2 {
+
+    height: 12%;
+
+    width: 40%;
+
+    position: relative;
+
+    background-color: lightgrey;
+}
+
+.picture1 {
+    height: 77%;
+    top: 10px;
+    width: 100%;
+    background-color: white;
+    position: relative;
+    display: table;
+}
+
+.img {
+    height: 48%;
+    width: 24%;
+    float: left;
+    margin-right: 9px;
+    margin-bottom: 9px;
+    background-color: #f8cf39;
+    display: table-cell;
+}
+
+.fifth {
+    height: 15%;
+    top: 70px;
+    width: 100%;
+    background-color: #f8cf39;
+    position: relative;
+}
+
+.infift {
+    /* margin-bottom: 0; */
+    height: 30%;
+    width: 70%;
+    top: 8px;
+    left: 0;
+    /* margin: 0; */
+    right: 0;
+    margin: auto;
+    position: relative;
+    color: white;
+}
+
+.header1 {
+    height: 20%;
+    width: 70%;
+    left: 0;
+    right: 0;
+    /* display: block; */
+    margin: auto;
+    position: relative;
+    background-color: white;
+    color: black;
+    top: 120px;
+    text-align: center;
+}
+
+.sixth {
+    height: 40%;
+    width: 70%;
+    margin: auto;
+    left: 0;
+    position: relative;
+    right: 0;
+    top: 60px;
+}
+
+.high {
+    height: 100%;
+    width: 23%;
+    position: relative;
+    margin-right: 15px;
+    float: left;
+}
+
+.upper {
+    height: 40%;
+    width: 100%;
+    position: relative;
+    color: #f8cf39;
+    margin-bottom: 5px;
+    font-size: 40px;
+
+
+}
+
+.bottom {
+    height: 60%;
+    width: 100%;
+    position: relative;
+}
+
+h1 {
+    margin: 0;
+}
